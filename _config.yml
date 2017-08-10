@@ -1,0 +1,8 @@
+title: Naos - solid infrastructure for all
+description: GitHub Pages Website
+google_analytics: UA-66651168-1
+show_downloads: true
+theme: jekyll-theme-slate
+
+gems:
+  - jekyll-mentions
