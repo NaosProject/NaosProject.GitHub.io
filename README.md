@@ -1,4 +1,4 @@
-<p align="center"><img wight=400 align="center" src="https://media.licdn.com/mpr/mpr/shrink_200_200/AAEAAQAAAAAAAAa3AAAAJGUyMDc5Y2U4LWNmYzgtNDRlMS05MzE3LThhNTI0ZjFiMmY0Nw.png" /></p>
+<p align="center"><img wight=400 align="center" src="https://github.com/NaosProject/NaosProject.GitHub.io/raw/master/Logo_200x200.png" /></p>
 
 # Naos Open Source Project
 Naos is an Open Source project offered freely under the MIT license, owned and operated by Naos, LLC. It was created for and is dedicated to providing the high quality infrastructure to manage builds, deployments, cloud provisioning.  This allows small developer shops to focus on their business without having to worry about getting or keeping their stuff running.
