@@ -9,12 +9,12 @@ Naos is an Open Source project offered freely under the MIT license, owned and o
 Naos is named from the Greek architectural component of temple design (<a target="_blank" href="https://en.wikipedia.org/wiki/Cella">Cella</a> in Latin).  It seemed appropriate given how structurally important the infrastructure is on a project while generally remaining unseen.
 
 ## Currently Offering
-* Database migration strategy
 * Continuous integration strategy
 * Automation to create the minimal cloud infrastructure in AWS
 * Automation to create new instances on cloud infrastructure
 * Automation to configure software on new cloud instances
 * SDK's to access and manage remote machines
+* Database migration strategy
 
 ## Links
 * Source Code: <a href="https://github.com/NaosProject" title="NaosProject on GitHub" target="_blank">github.com/NaosProject</a>
@@ -38,7 +38,7 @@ Naos is named from the Greek architectural component of temple design (<a target
   <img width="225" align="center" src="http://getthinktank.wpengine.com/wp-content/uploads/2015/05/ThinkThankInc350pxWide.png" alt="Think Tank, Inc. Logo" title="Think Tank, Inc.: Creative solutions to complex problems" />
 </a></p>
 
-<h2>License</h2>
+##License
 The intention is to allow anyone to take the source, modify it, put it in your own code, go sell that code without making it opensource...
 
 To accomplish this, all software in the Naos Opensource Project is offered under the MIT License (MIT).
