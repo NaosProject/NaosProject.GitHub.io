@@ -38,7 +38,7 @@ Naos is named from the Greek architectural component of temple design (<a target
   <img width="225" align="center" src="http://getthinktank.wpengine.com/wp-content/uploads/2015/05/ThinkThankInc350pxWide.png" alt="Think Tank, Inc. Logo" title="Think Tank, Inc.: Creative solutions to complex problems" />
 </a></p>
 
-##License
+## License
 The intention is to allow anyone to take the source, modify it, put it in your own code, go sell that code without making it opensource...
 
 To accomplish this, all software in the Naos Opensource Project is offered under the MIT License (MIT).
