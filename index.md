@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="400" align="center" src="https://github.com/NaosProject/NaosProject.GitHub.io/raw/master/Logo_200x200.png" alt="Naos Logo" title="Naos Project" />
+  <img width="300" align="center" src="https://github.com/NaosProject/NaosProject.GitHub.io/raw/master/Logo_200x200.png" alt="Naos Logo" title="Naos Project" />
 </p>
 
 # Naos Open Source Project
