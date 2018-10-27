@@ -3,7 +3,7 @@
 </p>
 
 # Naos Open Source Project
-Naos is an Open Source project offered freely under the MIT license, owned and operated by Naos, LLC. It was created for and is dedicated to providing the high quality infrastructure to manage builds, deployments, cloud provisioning.  This allows small developer shops to focus on their business without having to worry about getting or keeping their stuff running.
+Naos is an Open Source project offered freely under the MIT license, owned and operated by <a target="_blank" href="https://www.linkedin.com/in/wlscaudill/">Lawson Caudill</a>. It was created for and is dedicated to providing the high quality infrastructure to manage builds, deployments, cloud provisioning, data processing, etc.  This allows small developer shops to focus on their business without having to worry about getting or keeping their stuff running.
 
 ## Name
 Naos is named from the Greek architectural component of temple design (<a target="_blank" href="https://en.wikipedia.org/wiki/Cella">Cella</a> in Latin).  It seemed appropriate given how structurally important the infrastructure is on a project while generally remaining unseen.
@@ -15,6 +15,7 @@ Naos is named from the Greek architectural component of temple design (<a target
 * Automation to configure software on new cloud instances
 * SDK's to access and manage remote machines
 * Database migration strategy
+* MessageBus abstraction strategy
 
 ## Links
 * Source Code: <a href="https://github.com/NaosProject" title="NaosProject on GitHub" target="_blank">github.com/NaosProject</a>
