@@ -22,7 +22,7 @@ Naos is named from the Greek architectural component of temple design (<a target
 * AppVeyor: <a href="https://ci.appveyor.com/project/Naos-Project/" title="NaosProject on AppVeyor" target="_blank">ci.appveyor.com/project/Naos-Project</a>
 * NuGet Packages: <a href="https://www.nuget.org/profiles/naos" title="NaosProject on NuGet" target="_blank">www.nuget.org/profiles/naos</a>
 * LinkedIn Group: <a href="https://www.linkedin.com/grp/home?gid=6921693" title="NaosProject LinkedIn Group Page" target="_blank">www.linkedin.com/grp/home?gid=6921693/</a>
-* LinkedIn Company Page: <a href="https://www.linkedin.com/company/10109977" title="NaosProject LinkedIn Company Page" target="_blank">www.linkedin.com/company/10109977</a>
+* LinkedIn 'Company' Page: <a href="https://www.linkedin.com/company/naos-project/" title="NaosProject LinkedIn 'Company' Page" target="_blank">https://www.linkedin.com/company/naos-project/</a>
 
 ## Sponsors
 #### We are very lucky to have some great sponsors, without whose support none of this would be possible.  To them all a very heartfelt thank you!
@@ -46,4 +46,4 @@ To accomplish this, all software in the Naos Opensource Project is offered under
 
 The MIT License (MIT) Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions: The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software. THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-<h4>More information can be found at: <a href="http://opensource.org/licenses/MIT" title="MIT Opensource License">http://opensource.org/licenses/MIT</a></h4>
+<h4>More information can be found at: <a href="http://opensource.org/licenses/MIT" title="MIT Opensource License" target="_blank">http://opensource.org/licenses/MIT</a></h4>
